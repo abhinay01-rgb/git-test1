@@ -1,0 +1,42 @@
+body {
+    font-family: Verdana;
+    background:white ;
+    max-width: 60em;
+	border-top:20px solid red;
+		border-bottom:20px solid yellow;
+		border-right:20px solid red;
+		border-left:20px solid yellow;
+			
+				padding:60px 80px 100px 120px;
+				border-radius:50px;
+	
+}
+body
+{
+background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)));
+background-size: cover;
+background-position: center;
+}
+
+#guide {
+    float:right;
+    border: black solid 0.1em;
+    padding: 1em;
+    background:grey;
+	color: white;
+border-radius:40px;
+box-shadow:10px 10px 10px 10px black;
+width:300px;
+height:300px;
+}
+
+#guide h1 {
+    font-size: 1.2em;
+color:dodgerblu
+
+}
+#controls h1{
+	color:mediumseagreen;
+	
+	
+}
